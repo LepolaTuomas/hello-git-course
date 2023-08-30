@@ -1,6 +1,6 @@
+print("Hello world!")
 <<<<<<< HEAD
-print("Hello world!")
-=======
-print("Hello world!")
 print("Hello once again")
->>>>>>> intermediate/merge/feature/add-logging
+=======
+print("I've come to talk with you again")
+>>>>>>> intermediate/conflict/feature/modify-print
